@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "description": "Site web",
+  "version": "0.0.1",
+  "engines": {
+    "node": "5.10.x"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tibalte-sound/site.git"
+  },
+  "dependencies": {
+    "errorhandler": "~1.4.3",
+    "express": "~4.13.4",
+    "morgan": "~1.7.0",
+    "swig": "~1.4.2"
+  }
+}
